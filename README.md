@@ -34,4 +34,32 @@ To push AI-based development as far as I can, build useful products, and discove
 
 ### Based in Jaipur, India
 
+## Tech Stack
+
+**Languages**
+
+* Python
+* C
+* Dart
+* Kotlin
+
+**AI & Agentic AI**
+
+* Ollama
+* Local AI models
+* AI agents
+* Agentic AI systems
+
+**Development**
+
+* Flutter
+* AI-powered web development
+* APIs
+
+**Tools**
+
+* Git
+* GitHub
+
+
 **B.Tech Mechanical Engineering — ICFAI University, Jaipur**
